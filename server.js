@@ -4,7 +4,7 @@ const port = process.env.PORT || 3000;
 
 // Simple route
 app.get('/', (req, res) => {
-  res.send('Hello from Azure App Service - Node.js!');
+  res.send('Hi, Elohim Tek offerings are cloud services - Node.js!');
 });
 
 // Start server
